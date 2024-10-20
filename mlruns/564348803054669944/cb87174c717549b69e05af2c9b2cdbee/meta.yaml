@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/depi_new/mlruns/564348803054669944/cb87174c717549b69e05af2c9b2cdbee/artifacts
+end_time: 1729391647007
+entry_point_name: ''
+experiment_id: '564348803054669944'
+lifecycle_stage: active
+run_id: cb87174c717549b69e05af2c9b2cdbee
+run_name: Passive Aggressive Classifier
+run_uuid: cb87174c717549b69e05af2c9b2cdbee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729391646635
+status: 3
+tags: []
+user_id: Mohamed Adel

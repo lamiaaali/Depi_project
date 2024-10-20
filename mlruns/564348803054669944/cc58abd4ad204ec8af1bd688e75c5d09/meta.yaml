@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/depi_new/mlruns/564348803054669944/cc58abd4ad204ec8af1bd688e75c5d09/artifacts
+end_time: 1729391647633
+entry_point_name: ''
+experiment_id: '564348803054669944'
+lifecycle_stage: active
+run_id: cc58abd4ad204ec8af1bd688e75c5d09
+run_name: Logistic Regression
+run_uuid: cc58abd4ad204ec8af1bd688e75c5d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729391647238
+status: 3
+tags: []
+user_id: Mohamed Adel

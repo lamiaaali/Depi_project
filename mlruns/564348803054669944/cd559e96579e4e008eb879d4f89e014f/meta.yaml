@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/depi_new/mlruns/564348803054669944/cd559e96579e4e008eb879d4f89e014f/artifacts
+end_time: 1729391650086
+entry_point_name: ''
+experiment_id: '564348803054669944'
+lifecycle_stage: active
+run_id: cd559e96579e4e008eb879d4f89e014f
+run_name: SVM Classifier
+run_uuid: cd559e96579e4e008eb879d4f89e014f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729391649507
+status: 3
+tags: []
+user_id: Mohamed Adel

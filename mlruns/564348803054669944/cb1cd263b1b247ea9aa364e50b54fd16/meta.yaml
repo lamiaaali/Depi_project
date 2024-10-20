@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/depi_new/mlruns/564348803054669944/cb1cd263b1b247ea9aa364e50b54fd16/artifacts
+end_time: 1729391649434
+entry_point_name: ''
+experiment_id: '564348803054669944'
+lifecycle_stage: active
+run_id: cb1cd263b1b247ea9aa364e50b54fd16
+run_name: Random Forest Classifier
+run_uuid: cb1cd263b1b247ea9aa364e50b54fd16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729391647751
+status: 3
+tags: []
+user_id: Mohamed Adel
